@@ -1,0 +1,13 @@
+
+PI0 GOVERNANCE MODULE - SIMULATION SUMMARY
+==========================================
+
+Number of Simulated Iterations: 10000
+
+Average Results per Operator:
+- Compliance: 0.5013059109732946
+- Payroll: 5.0130591097329456
+- Taxation: 0.7519588664599419
+
+(This simulation uses a 10^4 iteration demo to approximate system dynamics.)
+Exported on: 2025-03-25 21:10:32
